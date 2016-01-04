@@ -22,7 +22,8 @@ public class InteractiveCoD extends Shell<CookieOnDemand> {
 				OrderCookie.class,
 				ShowCart.class,
 				RemoveCookie.class,
-				ProcessCart.class
+				ProcessCart.class,
+				Empty.class
 		);
 
 	}
